@@ -1,0 +1,54 @@
+NAMES: Julia Fairbank, Mia Tarantola, Caroline Cutter
+
+CSCI 0321A - Bioinformatics
+
+ASSIGNMENT: Final Project
+	    Read Me File 
+            
+DUE: Monday, May 16th
+
+
+****************************************************************************************
+
+
+Code Files:
+
+- genreadpairs.py --------> Generates (k,d)mers from pattern
+
+- reconstruction.py ------> Finds a Eulerian Cycle with a paired DeBruijn Graph, running collect_data(“whole genome.txt”) will print out the reconstructed genome
+
+- repeated_kmers.py ------> Finds number of repeated k-mers in the reconstructed genome with k values 1-12. 
+
+- repeated_kmer_graph.R --> Graphs the number of repeated k-mer values 
+
+
+
+Data Files:
+
+- cs321final-data.csv -----> K and D data collected while running the data
+
+- constructed_genome.txt --> A text file containing the reconstructed genome of the Carsonella ruddii
+
+- wholegenome.txt ---------> A collection of error-free read pairs to construct the DeBruijn graph with 
+
+
+
+Extra: 
+
+- Final Poster
+
+- Progress Diary
+
+- Repeated K-Mer Data ----> Repeated K-mer data to further analyze our results. We did not include this in our poster so we put it in here for reference. 
+
+
+
+
+
+
+
+
+
+
+
+
